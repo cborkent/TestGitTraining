@@ -1,4 +1,2 @@
 *.rar
-*.bak
-*.xml
-*.test
+/tds.bak
